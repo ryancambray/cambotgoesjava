@@ -1,0 +1,16 @@
+lastfm:
+  api-key: ""
+  api-secret: ""
+  username: ""
+
+spotify:
+  scope: ""
+  username: ""
+  client_id: ""
+  client_secret: ""
+
+twitter:
+  api-key: ""
+  api-secret: ""
+  access-token: ""
+  access-token-secret: ""
